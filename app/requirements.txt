@@ -1,0 +1,11 @@
+django
+gunicorn
+django-heroku
+requests
+djangorestframework
+markdown
+django-filter
+dj_rest_auth
+jupyter
+ipython
+django-extensions
