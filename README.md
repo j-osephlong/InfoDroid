@@ -12,6 +12,6 @@ All server files can be found in the server directory.
 The server follows a REST API design, and uses the django web framework.
 
 ## Android App 
-All androdi app files can be found in the app directory.
+All android app files can be found in the app directory.
 
 The app uses Jetpack Compose for the user interface and Retrofit+GSON+OKHTTP for the backend.
