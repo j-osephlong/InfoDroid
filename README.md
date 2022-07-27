@@ -7,11 +7,11 @@ InfoDroid is a geolocked social media server and Android App. This means that us
 Found in the root of this reporitory - **technical-report.pdf**
 
 ## Server 
-All server files can be found in the server directory. 
+All server files can be found in the **/app** directory. 
 
 The server follows a REST API design, and uses the django web framework.
 
 ## Android App 
-All android app files can be found in the app directory.
+All android app files can be found in the **/appAndroid** directory.
 
 The app uses Jetpack Compose for the user interface and Retrofit+GSON+OKHTTP for the backend.
